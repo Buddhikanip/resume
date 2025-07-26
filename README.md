@@ -3,12 +3,10 @@
 A clean, professional, and ATS-friendly LaTeX resume template with modular structure for easy customization.
 
 ### Preview (without photo)
-<img src="images/resume_page-1 (without photo).jpg" width=200 alt="Resume Preview Page 1 (without photo)"/>
-<img src="images/resume_page-2 (without photo).jpg" width=200 alt="Resume Preview Page 2 (without photo)"/>
+<img src="images/resume_page-1 (without photo).jpg" width=300 alt="Resume Preview Page 1 (without photo)"/> <img src="images/resume_page-2 (without photo).jpg" width=300 alt="Resume Preview Page 2 (without photo)"/>
 
 ### Preview (with photo)
-<img src="images/resume_page-1.jpg" width=200 alt="Resume Preview Page 1 (with photo)"/>
-<img src="images/resume_page-2.jpg" width=200 alt="Resume Preview Page 2 (with photo)"/>
+<img src="images/resume_page-1.jpg" width=300 alt="Resume Preview Page 1 (with photo)"/> <img src="images/resume_page-2.jpg" width=300 alt="Resume Preview Page 2 (with photo)"/>
 
 ## Features
 
